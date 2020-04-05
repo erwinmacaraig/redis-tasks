@@ -12,7 +12,7 @@
     "express": "*",
     "body-parser": "*",
     "morgan": "*",
-    "ejs": "2.4.2",
+    "ejs": "3.0.2",
     "redis": "*"
   }
 }
